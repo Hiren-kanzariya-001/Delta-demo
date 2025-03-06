@@ -2,7 +2,7 @@
 This is a Demo for Git and Github class.
 
 # Teacher
-Shardha khapra.
+Shardha khapra
 
 # Student
 Hiren Kanzariya
